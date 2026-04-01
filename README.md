@@ -2,7 +2,7 @@
 <h3 align="left">Andrea Pauline G. dela Pena</h3>
 <h3 align="left">BSIT-2B</h3>
 <h3 align="left">I like to code, draw, read, cook, and exercise (sometimes)
-
+<br><br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
